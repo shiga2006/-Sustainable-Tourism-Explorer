@@ -35,7 +35,6 @@ What’s the benefit?
 This app helps travelers become more aware of their impact and gives them everything they need to plan smart, sustainable trips. It’s also a fun and interactive way for students, tourists, and even officials to learn more about eco-friendly travel.
 
 Snapshots:
-![Screenshot 2025-05-24 235217](https://github.com/user-attachments/assets/e7b57ee8-5152-4ae6-b6ea-2725ff199158)
 ![Screenshot 2025-05-25 101004](https://github.com/user-attachments/assets/4156b620-dd6a-432e-9ffd-34799de96c18)
 ![Screenshot 2025-05-25 101023](https://github.com/user-attachments/assets/d5039984-a908-4c6b-af86-9d2dd44fd41d)
 ![Screenshot 2025-05-25 101044](https://github.com/user-attachments/assets/b8046421-5744-42bb-a97c-23f2946cb106)
